@@ -27,3 +27,5 @@
 * **[Писмени испити](/pismeni-ispiti/README.md)**
 
 * **[Усмени испити](/usmeni-ispiti/README.md)**
+
+* **[Резултати колоквијума и писмених испита](/rezultati-kolokvijuma-i-pismenih-ispita/README.md)**
